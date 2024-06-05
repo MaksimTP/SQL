@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/materials/model.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/src/ex00/day03_ex00.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/src/ex01/day03_ex01.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/src/ex02/day03_ex02.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/src/ex03/day03_ex03.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/src/ex04/day03_ex04.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/src/ex05/day03_ex05.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/src/ex06/day03_ex06.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/src/ex07/day03_ex07.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/src/ex08/day03_ex08.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/src/ex09/day03_ex09.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/src/ex10/day03_ex10.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/src/ex11/day03_ex11.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/src/ex12/day03_ex12.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/src/ex13/day03_ex13.sql" dialect="PostgreSQL" />
+  </component>
+</project>

@@ -1,0 +1,5 @@
+SELECT order_date, name || ' (age:' || age || ')' as person_information
+FROM person_order
+LEFT JOIN person
+ON person.id = person_order.person_id
+ORDER BY 1,2

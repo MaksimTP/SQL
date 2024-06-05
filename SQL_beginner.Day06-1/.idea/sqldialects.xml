@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/src/ex00/day06_ex00.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/src/ex01/day06_ex01.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/src/ex02/day06_ex02.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/src/ex03/day06_ex03.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/src/ex04/day06_ex04.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/src/ex05/day06_ex05.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/src/ex06/day06_ex06.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/../SQL_beginner.Day07-1/src/ex00/day07_ex00.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/../SQL_beginner.Day07-1/src/ex01/day07_ex01.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/../SQL_beginner.Day07-1/src/ex02/day07_ex02.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/../SQL_beginner.Day07-1/src/ex03/day07_ex03.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/../SQL_beginner.Day07-1/src/ex04/day07_ex04.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/../SQL_beginner.Day07-1/src/ex05/day07_ex05.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/../SQL_beginner.Day07-1/src/ex06/day07_ex06.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/../SQL_beginner.Day07-1/src/ex07/day07_ex07.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/../SQL_beginner.Day07-1/src/ex08/day07_ex08.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/../SQL_beginner.Day07-1/src/ex09/day07_ex09.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/../SQL_beginner.Day08-1/src/ex00/day08_ex00.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/../../reviews/ggg/doneldie/SQL_beginner.Day05-1/src/ex00/day05_ex00.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/../../reviews/ggg/doneldie/SQL_beginner.Day05-1/src/ex01/day05_ex01.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/../../reviews/ggg/doneldie/SQL_beginner.Day05-1/src/ex02/day05_ex02.sql" dialect="PostgreSQL" />
+  </component>
+</project>

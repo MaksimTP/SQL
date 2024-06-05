@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/src/ex01/day02_ex01.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/src/ex02/day02_ex02.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/src/ex03/day02_ex03.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/src/ex04/day02_ex04.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/src/ex05/day02_ex05.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/src/ex06/day02_ex06.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/src/ex07/day02_ex07.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/src/ex08/day02_ex08.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/src/ex09/day02_ex09.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/src/ex10/day02_ex10.sql" dialect="PostgreSQL" />
+  </component>
+</project>
